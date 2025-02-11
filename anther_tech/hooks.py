@@ -243,6 +243,8 @@ doctype_js = {"Sales Invoice" : "public/js/sales_invoice.js"}
 # }
 
 fixtures = [
-    {"dt": "Web Page", "filters": [["name", "in", ["home-page","projects"]]]},
+    {"dt": "Web Page", "filters": [
+        ["name", "in", ["home-page","projects"]]
+        ]},
     {"dt": "Website Settings"}
 ]
