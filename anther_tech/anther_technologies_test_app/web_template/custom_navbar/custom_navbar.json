@@ -1,0 +1,16 @@
+{
+ "__unsaved": 1,
+ "creation": "2025-02-11 10:39:13.067066",
+ "docstatus": 0,
+ "doctype": "Web Template",
+ "fields": [],
+ "idx": 1,
+ "modified": "2025-02-11 12:19:27.324982",
+ "modified_by": "Administrator",
+ "module": "Anther Technologies Test App",
+ "name": "Custom Navbar",
+ "owner": "Administrator",
+ "standard": 1,
+ "template": "",
+ "type": "Navbar"
+}
