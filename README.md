@@ -32,6 +32,5 @@ WEB FORM against Contact Doctype
 # TASK-2
 
 ## ITEM SALE REPORT CUSTOMER TIME ZONE WISE
-![Screenshot 2025-02-11 at 11-55-47 Item Sales Report](https://github.com/user-attachments/assets/3c93a524-9423-4ac0-83e0-577d83be24aa)
 
-![Screenshot from 2025-02-11 11-57-23](https://github.com/user-attachments/assets/ac17746f-62bc-449a-8cda-50d93f5cf157)
+![Screenshot 2025-02-11 at 17-12-57 Item Sales Report-Hourly](https://github.com/user-attachments/assets/d878d995-d52a-4042-9edc-19e468b0961d)
